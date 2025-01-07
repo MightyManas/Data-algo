@@ -1,0 +1,1 @@
+I would look for compatible specs required to render most of the modern Games at smooth FPS on a 4k display. This can include high end GPU from nvidia RTX 5090 to lates Ryzen 7 9000 X3D CPU.  To support all the powerful components, suitable size and speed or ram shall be used along side atleast Gen 4 SSD.   
